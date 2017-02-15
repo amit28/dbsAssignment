@@ -1,0 +1,3 @@
+service\CalculateSatisfation.class
+init\ApplicationInitializer.class
+service\CalculateSatisfactionImpl.class
